@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-03-27T15:30:08.241Z</updated>
+    <updated>2020-03-27T15:34:57.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[成长]]></title>
+        <id>https://jsansenre.github.io//post/cheng-chang</id>
+        <link href="https://jsansenre.github.io//post/cheng-chang">
+        </link>
+        <updated>2020-03-27T15:31:27.000Z</updated>
+        <content type="html"><![CDATA[<p>你不自己多坑自己几次都不知道自己几斤几两，有人说别后悔你所做的每一个决定，因为无论你做的是怎样的决定，你都会在某个时刻后悔。所以还是好好珍惜现在，期待未来吧！（抱抱自己）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[耗能]]></title>
         <id>https://jsansenre.github.io//post/hao-neng</id>
