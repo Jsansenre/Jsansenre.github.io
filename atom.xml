@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-03-26T06:56:53.561Z</updated>
+    <updated>2020-03-27T15:30:08.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[耗能]]></title>
+        <id>https://jsansenre.github.io//post/hao-neng</id>
+        <link href="https://jsansenre.github.io//post/hao-neng">
+        </link>
+        <updated>2020-03-27T15:27:51.000Z</updated>
+        <content type="html"><![CDATA[<p>我可真是个内向的人呢，一天和别人多说几句话就会感到疲倦。我还是喜欢躲在只有一个人的角落，我最大的目标就是早日实现财务自由，然后一个人自由自在。啦啦啦啦啦~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreamer]]></title>
+        <id>https://jsansenre.github.io//post/dreamer</id>
+        <link href="https://jsansenre.github.io//post/dreamer">
+        </link>
+        <updated>2020-03-26T06:54:17.000Z</updated>
+        <content type="html"><![CDATA[<p>还没学会走，就想着要跑！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[失望]]></title>
         <id>https://jsansenre.github.io//post/shi-wang</id>
