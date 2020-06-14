@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-03-27T15:34:57.314Z</updated>
+    <updated>2020-06-14T07:48:11.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[降维打击]]></title>
+        <id>https://jsansenre.github.io//post/jiang-wei-da-ji</id>
+        <link href="https://jsansenre.github.io//post/jiang-wei-da-ji">
+        </link>
+        <updated>2020-06-14T07:44:51.000Z</updated>
+        <content type="html"><![CDATA[<p>今天再次进一步认识了降维打击这个概念，第一次是学炒股用哲学高度分析股市。这次是学英语，高度抽象概括后分析句子。效果很明显，以后可以先把目标将一个维度，用绝对的实力吊打次等级的世界，然后蓄力，冲击更高的维度！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谦虚]]></title>
+        <id>https://jsansenre.github.io//post/qian-xu</id>
+        <link href="https://jsansenre.github.io//post/qian-xu">
+        </link>
+        <updated>2020-03-28T12:35:32.000Z</updated>
+        <content type="html"><![CDATA[<p>无知并不可怕，可怕的是我们对自己的无知一无所知，并对自己仅有的错误认知，理所当然，洋洋自得！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成长]]></title>
         <id>https://jsansenre.github.io//post/cheng-chang</id>
