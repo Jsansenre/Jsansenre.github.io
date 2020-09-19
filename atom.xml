@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-09-16T13:46:55.081Z</updated>
+    <updated>2020-09-19T07:49:25.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[纠偏]]></title>
+        <id>https://jsansenre.github.io//post/jiu-pian</id>
+        <link href="https://jsansenre.github.io//post/jiu-pian">
+        </link>
+        <updated>2020-09-19T07:36:43.000Z</updated>
+        <content type="html"><![CDATA[<p>人生中最重要的事情是及时发现自己的错误，修正，检验，不断纠偏总结和调整优化的速度越快，成功的几率越高！</p>
+<p>但是这又是十分困难的一件事情，人们容易发现别人的错误，而对自己身上的错误浑然不知，而且极易陷入自我欺骗。</p>
+<p>1、多与不同的人沟通相处，看别人犯的错误，检测自己是否也存在。<br>
+2、交代好朋友，让他指出（几乎不可能，也很危险），改为敌人诋毁自己的坏话，查出蛛丝马迹<br>
+3、通过自己各种失败中总结（浪费大量时间与精力，影响最为深刻，总结也最到位）<br>
+4、看书，看电影，看传记。写感想，做笔记，想对策。同一事件不同的人物角度解读（知识储备越多&amp;广，收获越大）<br>
+5、了解不同的新鲜事与不同的观点（学好外语，解除的东西越多、出国等）</p>
+<p>但是，找到了自己的缺点，又容易陷入此种困境：有心改正，不知不觉又陷入之前错误环路无法自拔，白白浪费时间与生命。</p>
+<p>1、排列出来、制定目标与对策计划，改掉这些缺点<br>
+2、一个阶段解决一个问题、刻意训练（拖延：这个星期每天的衣服必须及时清洗）<br>
+3、反复检测，检验效果<br>
+4、不断学习找到优质的方法<br>
+5、经常回顾与总结</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自私又擅妒忌的人]]></title>
+        <id>https://jsansenre.github.io//post/zi-si-you-shan-du-ji-de-ren</id>
+        <link href="https://jsansenre.github.io//post/zi-si-you-shan-du-ji-de-ren">
+        </link>
+        <updated>2020-09-16T13:44:04.000Z</updated>
+        <content type="html"><![CDATA[<p>一个人所有好的坏的有点不分性别与年龄，懂得合理分配时间与给予对方方便，充分利用人性和心理学知识才会让对方愉快。绝对的实力和打击让人臣服，只有这样才是愉悦而又和谐的人际关系。不断学习与实操这些技巧，能够加速成功。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目标与心态]]></title>
         <id>https://jsansenre.github.io//post/mu-biao-yu-xin-tai</id>
@@ -84,26 +114,6 @@
         </link>
         <updated>2020-03-27T15:27:51.000Z</updated>
         <content type="html"><![CDATA[<p>我可真是个内向的人呢，一天和别人多说几句话就会感到疲倦。我还是喜欢躲在只有一个人的角落，我最大的目标就是早日实现财务自由，然后一个人自由自在。啦啦啦啦啦~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamer]]></title>
-        <id>https://jsansenre.github.io//post/dreamer</id>
-        <link href="https://jsansenre.github.io//post/dreamer">
-        </link>
-        <updated>2020-03-26T06:54:17.000Z</updated>
-        <content type="html"><![CDATA[<p>还没学会走，就想着要跑！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失望]]></title>
-        <id>https://jsansenre.github.io//post/shi-wang</id>
-        <link href="https://jsansenre.github.io//post/shi-wang">
-        </link>
-        <updated>2020-03-03T16:09:46.000Z</updated>
-        <content type="html"><![CDATA[<p>最近诸事不顺，突然觉得自己是个笑话。读了个三流的大学，有些三流的想法，做些三流的工作，心态也越来越崩了。感觉自己很失败，也很搞笑。为什么会这样子呢？<br>
--------一个梦想家<br>
-我好像懂了那些自杀的人不是内心阴暗，只是对这个世界充满了太多的期待。</p>
 ]]></content>
     </entry>
 </feed>
