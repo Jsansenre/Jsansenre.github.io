@@ -2,14 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-12-12T15:16:43.312Z</updated>
+    <updated>2021-01-17T13:55:03.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[勇气]]></title>
+        <id>https://jsansenre.github.io//post/yong-qi</id>
+        <link href="https://jsansenre.github.io//post/yong-qi">
+        </link>
+        <updated>2021-01-17T13:46:08.000Z</updated>
+        <content type="html"><![CDATA[<p>自从我毕业工作以来我发现自己并不适合建筑行业（也许自身性格缺陷比较明显），后来考研失败，工作一年也并不顺利，真的是诸事不顺呀！突然感觉事情真的不是我想象那样的简单，突然感觉自己很弱小，我很害怕，害怕自己会失败，又会感觉自己明明很努力却很艰难。我知道这样的想法是不对的，也知道自己要学会成长然后跳出自己的舒适区，没有谁的人生会一帆风顺。哎，加油吧！无论如何自己选的路，跪着也要走下去！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知行合一]]></title>
+        <id>https://jsansenre.github.io//post/zhi-xing-he-yi</id>
+        <link href="https://jsansenre.github.io//post/zhi-xing-he-yi">
+        </link>
+        <updated>2020-12-12T14:58:47.000Z</updated>
+        <content type="html"><![CDATA[<p>要把知道的运用到实际真的太难了，首先是懒惰，不仅表现在思考上（想与记忆）还体现在行动上（拖延与无法坚持）。然而只有把自己知道的落实到实践上，最后获得反馈才是成长！一定要克服拖延和懒惰</p>
+<p>最近又发现，一个人的心态是真的很难控制的。我并没有比自己想象中的意志坚定和平静，还是会被一些无关的琐事打扰，最近我常在想人生的意义，思考自己究竟应该要怎样度过自己的一生。还是要去做一些自己喜欢的事情吧，我发现目前自己最缺乏的是勇气和智慧，不要害怕失败和失去，时间将会告诉你一切的答案，它会带领你去任何你想去和不想去的地方。我现在偶尔也会想生命的尽头会是什么呢？今天突然听说到了一个新的概念，中国人比一般的种族更要害怕死亡，真的是很有意思的一个观点呢！有时候我也会想，我们从出生一直都在接收者某种意义上的洗脑，小时候我们要学习好，考上一个好的学校，毕业之后我们要找到一个好的工作，工作以后我要找到好的另一半，之后又开始了循环。但是从来没有人告诉我们为什么要这么做，我们听到的是，不好好读书就找不到好的工作，找不到好的工作就组建不了好的家庭，不组建一个好的家庭你就不会幸福。但是这些就真的是对的吗？好好读书不一定会考上一个好的大学，你会发现教育中的不平等，哪些天生就有资源优势的人比你更容易考上好的学校。考上了好的学校你不一定能够找到好的工作，有人好工作了不一定能够挣到很多钱。就算你很有钱，你也很有可能还是不幸福。这样看来，我们一直都是自己帮自己找不痛快。为什么就不能跟着自己的内心，在有限的生命里去做些自己真正喜欢的事情呢？</p>
+<p>所以呀！还是要自己努力变聪明和强势，你才能让自己过得更开心。那么现在最重要的事情就是要做，马上行动起来！just do it！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纠偏]]></title>
         <id>https://jsansenre.github.io//post/jiu-pian</id>
@@ -96,24 +116,6 @@
         </link>
         <updated>2020-03-28T12:35:32.000Z</updated>
         <content type="html"><![CDATA[<p>无知并不可怕，可怕的是我们对自己的无知一无所知，并对自己仅有的错误认知，理所当然，洋洋自得！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成长]]></title>
-        <id>https://jsansenre.github.io//post/cheng-chang</id>
-        <link href="https://jsansenre.github.io//post/cheng-chang">
-        </link>
-        <updated>2020-03-27T15:31:27.000Z</updated>
-        <content type="html"><![CDATA[<p>你不自己多坑自己几次都不知道自己几斤几两，有人说别后悔你所做的每一个决定，因为无论你做的是怎样的决定，你都会在某个时刻后悔。所以还是好好珍惜现在，期待未来吧！（抱抱自己）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耗能]]></title>
-        <id>https://jsansenre.github.io//post/hao-neng</id>
-        <link href="https://jsansenre.github.io//post/hao-neng">
-        </link>
-        <updated>2020-03-27T15:27:51.000Z</updated>
-        <content type="html"><![CDATA[<p>我可真是个内向的人呢，一天和别人多说几句话就会感到疲倦。我还是喜欢躲在只有一个人的角落，我最大的目标就是早日实现财务自由，然后一个人自由自在。啦啦啦啦啦~</p>
 ]]></content>
     </entry>
 </feed>
