@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsansenre.github.io/</id>
     <title>Gridea</title>
-    <updated>2021-01-21T14:51:08.165Z</updated>
+    <updated>2021-02-14T12:18:21.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsansenre.github.io/"/>
     <link rel="self" href="https://jsansenre.github.io//atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://jsansenre.github.io//images/avatar.png</logo>
     <icon>https://jsansenre.github.io//favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[新角度]]></title>
+        <id>https://jsansenre.github.io//post/xin-jiao-du</id>
+        <link href="https://jsansenre.github.io//post/xin-jiao-du">
+        </link>
+        <updated>2021-02-14T12:17:23.000Z</updated>
+        <content type="html"><![CDATA[<p>换个角度看世界，整个世界都不一样了。少些抱怨，从小事做起。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所有的书都要自学，老师并没有毛线用，他只能帮你补充书上没有的知识]]></title>
+        <id>https://jsansenre.github.io//post/suo-you-de-shu-du-yao-zi-xue-lao-shi-bing-mei-you-mao-xian-yong-ta-zhi-neng-bang-ni-bu-chong-shu-shang-mei-you-de-zhi-shi</id>
+        <link href="https://jsansenre.github.io//post/suo-you-de-shu-du-yao-zi-xue-lao-shi-bing-mei-you-mao-xian-yong-ta-zhi-neng-bang-ni-bu-chong-shu-shang-mei-you-de-zhi-shi">
+        </link>
+        <updated>2021-01-30T14:32:33.000Z</updated>
+        <content type="html"><![CDATA[<p>中央财经大学徐华老师，从初中开始就自学所有课程和书籍，善于运用图形讲解的方式将知识点深入浅出的形象表达。擅长寻找最好的书籍，并对每本书的特点和结构内容了如指掌，推荐孔夫子旧书网找到绝版的书籍。所以我也要加强自学能力，不要在过多的课程上浪费时间，考试也是应付的技能！达到目的才最重要，实践，实践，再实践！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[准备充分]]></title>
+        <id>https://jsansenre.github.io//post/zhun-bei-chong-fen</id>
+        <link href="https://jsansenre.github.io//post/zhun-bei-chong-fen">
+        </link>
+        <updated>2021-01-28T13:04:00.000Z</updated>
+        <content type="html"><![CDATA[<p>做任何事情一定要准备充分，要专一，要学会自我包装与推销，学会伪装，学会模仿，学会重复，要有勇气，加油！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摸清自己的实力]]></title>
         <id>https://jsansenre.github.io//post/mo-qing-zi-ji-de-shi-li</id>
@@ -90,33 +117,6 @@
 <p>心态，因为很多无关紧要的事浪费时间，降低效率。去他妈的！关你吊事，做好自己就好。控制自己的言行，钱可以解决世界上99.999%的事情。你现在缺的只有钱，想那么多干什么。</p>
 <p>整洁，有条理是一个高效聪明成功的美德。</p>
 <p>再次强调，不要拖延，不要急！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近来的感悟]]></title>
-        <id>https://jsansenre.github.io//post/jin-lai-de-gan-wu</id>
-        <link href="https://jsansenre.github.io//post/jin-lai-de-gan-wu">
-        </link>
-        <updated>2020-07-18T07:25:14.000Z</updated>
-        <content type="html"><![CDATA[<p>最近乱七八糟，想了很多。感觉自己一直都很浮躁，每个人都是在洗脑中成长，离不开社会关系的个体，必须不断的与其他人进行资源的交换才能生存下去。功利化的学习和工作并不能带来很大的提高，虽然生存是物质的，但人的大脑应该是感性的，还是得顺着大脑的额感觉来，形象，感性，才能走得更顺畅。我感觉这一年以来改变得很多，无论是认知还是心态上都有了巨大的改变，希望能早日克服我的弱点，实现我的目标。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失望与欣喜]]></title>
-        <id>https://jsansenre.github.io//post/shi-wang-yu-xin-xi</id>
-        <link href="https://jsansenre.github.io//post/shi-wang-yu-xin-xi">
-        </link>
-        <updated>2020-06-24T14:03:43.000Z</updated>
-        <content type="html"><![CDATA[<p>不要高估自己的能力，也不要低估自己的潜能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人的本质是复读机]]></title>
-        <id>https://jsansenre.github.io//post/ren-de-ben-zhi-shi-fu-du-ji</id>
-        <link href="https://jsansenre.github.io//post/ren-de-ben-zhi-shi-fu-du-ji">
-        </link>
-        <updated>2020-06-24T14:02:41.000Z</updated>
-        <content type="html"><![CDATA[<p>需要大量的模仿与记忆</p>
 ]]></content>
     </entry>
 </feed>
